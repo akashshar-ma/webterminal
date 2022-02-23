@@ -1,0 +1,20 @@
+.container{
+    /* background-color: royalblue; */
+    background-image: url("assets/hacker.jpg");
+}
+body{
+    /* background-image: url('assets/terminal.html'); */
+    /* background-color: rgb(19, 18, 18);
+    background-size: cover; */
+}
+#bghack{
+    background-attachment: fixed;
+    width: 100%;
+    opacity: 80%;
+    display: grid;
+}
+h3{
+    color: red;
+    display: grid;
+    padding: 10%;
+}
